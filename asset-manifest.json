@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/social-react/static/css/main.9cb5b96e.chunk.css",
+    "main.js": "/social-react/static/js/main.fde9fbc4.chunk.js",
+    "main.js.map": "/social-react/static/js/main.fde9fbc4.chunk.js.map",
+    "runtime-main.js": "/social-react/static/js/runtime-main.e219057a.js",
+    "runtime-main.js.map": "/social-react/static/js/runtime-main.e219057a.js.map",
+    "static/js/2.0de670e2.chunk.js": "/social-react/static/js/2.0de670e2.chunk.js",
+    "static/js/2.0de670e2.chunk.js.map": "/social-react/static/js/2.0de670e2.chunk.js.map",
+    "static/css/3.26543e84.chunk.css": "/social-react/static/css/3.26543e84.chunk.css",
+    "static/js/3.55897e93.chunk.js": "/social-react/static/js/3.55897e93.chunk.js",
+    "static/js/3.55897e93.chunk.js.map": "/social-react/static/js/3.55897e93.chunk.js.map",
+    "static/css/4.5b33f1ce.chunk.css": "/social-react/static/css/4.5b33f1ce.chunk.css",
+    "static/js/4.98a84c57.chunk.js": "/social-react/static/js/4.98a84c57.chunk.js",
+    "static/js/4.98a84c57.chunk.js.map": "/social-react/static/js/4.98a84c57.chunk.js.map",
+    "index.html": "/social-react/index.html",
+    "precache-manifest.ff2132202f7c67e16dffefd4a011353e.js": "/social-react/precache-manifest.ff2132202f7c67e16dffefd4a011353e.js",
+    "service-worker.js": "/social-react/service-worker.js",
+    "static/css/3.26543e84.chunk.css.map": "/social-react/static/css/3.26543e84.chunk.css.map",
+    "static/css/4.5b33f1ce.chunk.css.map": "/social-react/static/css/4.5b33f1ce.chunk.css.map",
+    "static/css/main.9cb5b96e.chunk.css.map": "/social-react/static/css/main.9cb5b96e.chunk.css.map",
+    "static/js/2.0de670e2.chunk.js.LICENSE.txt": "/social-react/static/js/2.0de670e2.chunk.js.LICENSE.txt",
+    "static/media/ReactiveLogo.png": "/social-react/static/media/ReactiveLogo.734510ac.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e219057a.js",
+    "static/js/2.0de670e2.chunk.js",
+    "static/css/main.9cb5b96e.chunk.css",
+    "static/js/main.fde9fbc4.chunk.js"
+  ]
+}
